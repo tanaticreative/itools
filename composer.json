@@ -1,0 +1,20 @@
+{
+  "name": "tanaticreative/itools",
+  "description": "Some usefull command",
+  "type": "magento2-module",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Tanat",
+      "email": "tanat.icreative@gmail.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Icreative\\Tools\\": ""
+    }
+  }
+}
