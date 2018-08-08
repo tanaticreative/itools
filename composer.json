@@ -9,6 +9,9 @@
       "email": "tanat.icreative@gmail.com"
     }
   ],
+    "license": [
+    "proprietary"
+  ],
   "autoload": {
     "files": [
       "registration.php"
